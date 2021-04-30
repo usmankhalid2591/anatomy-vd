@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="36px" viewBox="0 0 41 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 14</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-14" transform="translate(-591.000000, -2990.000000)" filter="url(#filter-1)">
+            <g transform="translate(591.517141, 2990.959993)">
+                <line x1="39.5959202" y1="28.5512828" x2="0.10137979" y2="5.43703087" id="Stroke-1" stroke="#000000"></line>
+                <polygon id="Stroke-3" stroke="#000000" points="19.8486807 28.03522 12.0009919 23.6580782 12.0009919 15.8607828 19.8486807 20.2379246"></polygon>
+                <polygon id="Stroke-4" stroke="#000000" points="19.8486807 20.2341833 12.0009919 15.8570415 12.0009919 8.05974616 19.8486807 12.436888"></polygon>
+                <polygon id="Stroke-5" stroke="#000000" points="19.8486807 12.4333026 12.0009919 8.05616076 12.0009919 0.258865405 19.8486807 4.63600722"></polygon>
+                <polygon id="Stroke-7" stroke="#000000" points="19.8486807 28.03522 27.6963695 23.6580782 27.6963695 15.8607828 19.8486807 20.2379246"></polygon>
+                <polygon id="Stroke-8" stroke="#000000" points="19.8486807 20.2341833 27.6963695 15.8570415 27.6963695 8.05974616 19.8486807 12.436888"></polygon>
+                <polygon id="Stroke-9" stroke="#000000" points="19.8486807 12.4333026 27.6963695 8.05616076 27.6963695 0.258865405 19.8486807 4.63600722"></polygon>
+                <line x1="19.8486807" y1="28.03522" x2="19.8486807" y2="34.479419" id="Stroke-11" stroke="#000000"></line>
+            </g>
+        </g>
+    </g>
+</svg>

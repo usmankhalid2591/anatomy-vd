@@ -1,0 +1,13 @@
+.hero {
+  &__inner {
+    height: calc(100vh - 90px);
+    background-color: $pink;
+  }
+  &__big-text {
+    font-size: 163px;
+    line-height: 143px;
+  }
+  &__image {
+    width: 474px;
+  }
+}

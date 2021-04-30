@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="18px" viewBox="0 0 15 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bag-20</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="bag-20" transform="translate(-1303.000000, -9.000000)" filter="url(#filter-1)">
+            <g transform="translate(1304.268750, 10.000000)">
+                <rect id="Rectangle" stroke="#000000" x="0" y="3.46666667" width="12.2666667" height="12.5333333"></rect>
+                <path d="M3.46666667,5.6 L3.46666667,2.66666667 C3.46666667,1.19386667 4.66053333,0 6.13333333,0 L6.13333333,0 C7.60613333,0 8.8,1.19386667 8.8,2.66666667 L8.8,5.6" id="Path" stroke="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

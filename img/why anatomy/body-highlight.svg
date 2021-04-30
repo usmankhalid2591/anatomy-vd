@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="231px" height="480px" viewBox="0 0 231 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.656165 0 0 0 0 0.656165 0 0 0 0 0.656165 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Why-Anatomy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About-Our-Product-(Learn)---VD" transform="translate(-954.000000, -1608.000000)">
+            <g id="Group" transform="translate(955.327154, 1609.000000)">
+                <g filter="url(#filter-1)" id="Group-41">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <polyline id="Stroke-1" stroke="#A7A7A7" points="76.8448827 0 92.4305674 38.9607785 114.462565 45.1406694"></polyline>
+                        <line x1="91.8923676" y1="45.14012" x2="91.8923676" y2="57.634486" id="Stroke-3" stroke="#A7A7A7"></line>
+                        <line x1="96.326096" y1="45.14012" x2="96.326096" y2="57.634486" id="Stroke-4" stroke="#A7A7A7"></line>
+                        <polyline id="Stroke-5" stroke="#A7A7A7" points="91.8923676 64.61996 23.5111887 91.6233364 8.32925688 119.567429"></polyline>
+                        <line x1="6.44809811" y1="130.045915" x2="0.000411992723" y2="349.83442" id="Stroke-6" stroke="#A7A7A7"></line>
+                        <line x1="13.9422457" y1="158.539469" x2="9.53941684" y2="308.613312" id="Stroke-8" stroke="#A7A7A7"></line>
+                        <polyline id="Stroke-9" stroke="#A7A7A7" points="0 361.201711 19.0780097 399.00479 38.1532728 410.021475 40.8408386 406.707681 23.7335275 391.929502 20.9580698 370.882167 24.6302983 370.882167 31.2578879 389.063406 38.3331763 393.9002 39.9454411 387.898839 32.8701528 365.328505 19.6136002 344.998037"></polyline>
+                        <polyline id="Stroke-11" stroke="#A7A7A7" points="20.4212433 333.982313 38.4225787 256.062129 40.840976 221.668977 50.1108123 180.291174"></polyline>
+                        <polyline id="Stroke-12" stroke="#A7A7A7" points="55.8872249 173.427238 66.0991512 228.387067 60.993188 250.957402 41.9151783 323.234659"></polyline>
+                        <line x1="41.9153157" y1="337.743532" x2="60.4549882" y2="477.999588" id="Stroke-13" stroke="#A7A7A7"></line>
+                        <line x1="107.744337" y1="478" x2="107.744337" y2="339.893173" id="Stroke-15" stroke="#A7A7A7"></line>
+                        <line x1="107.744337" y1="336.198559" x2="114.462565" y2="336.198559" id="Stroke-18" stroke="#A7A7A7"></line>
+                        <line x1="121.355478" y1="336.198559" x2="114.638623" y2="336.198559" id="Stroke-19" stroke="#A7A7A7"></line>
+                        <line x1="99.1960373" y1="357.358094" x2="99.1960373" y2="462.804884" id="Stroke-20" stroke="#A7A7A7"></line>
+                        <polyline id="Stroke-21" stroke="#A7A7A7" points="151.700939 0 136.116628 38.9607785 114.083257 45.1406694"></polyline>
+                        <line x1="136.653592" y1="45.14012" x2="136.653592" y2="57.634486" id="Stroke-23" stroke="#A7A7A7"></line>
+                        <line x1="132.221237" y1="45.14012" x2="132.221237" y2="57.634486" id="Stroke-24" stroke="#A7A7A7"></line>
+                        <polyline id="Stroke-25" stroke="#A7A7A7" points="136.653592 64.61996 205.036144 91.6233364 220.218076 119.567429"></polyline>
+                        <line x1="222.097861" y1="130.045915" x2="228.545547" y2="349.83442" id="Stroke-26" stroke="#A7A7A7"></line>
+                        <line x1="214.60495" y1="158.539469" x2="219.007778" y2="308.613312" id="Stroke-28" stroke="#A7A7A7"></line>
+                        <polyline id="Stroke-29" stroke="#A7A7A7" points="228.545959 361.201711 209.469323 399.00479 190.392687 410.021475 187.705121 406.707681 204.812432 391.929502 207.587889 370.882167 203.915661 370.882167 197.288071 389.063406 190.212783 393.9002 188.600518 387.898839 195.675807 365.328505 208.932359 344.998037"></polyline>
+                        <polyline id="Stroke-31" stroke="#A7A7A7" points="208.125952 333.982313 190.124617 256.062129 187.704846 221.668977 178.436383 180.291174"></polyline>
+                        <polyline id="Stroke-32" stroke="#A7A7A7" points="172.658734 173.427238 162.448181 228.387067 167.552771 250.957402 186.630781 323.234659"></polyline>
+                        <line x1="186.630506" y1="337.743532" x2="168.090834" y2="477.999588" id="Stroke-33" stroke="#A7A7A7"></line>
+                        <line x1="120.801485" y1="478" x2="120.801485" y2="339.893173" id="Stroke-35" stroke="#A7A7A7"></line>
+                        <line x1="107.190481" y1="336.198559" x2="113.908709" y2="336.198559" id="Stroke-38" stroke="#A7A7A7"></line>
+                        <line x1="129.349785" y1="357.358094" x2="129.349785" y2="462.804884" id="Stroke-39" stroke="#A7A7A7"></line>
+                        <line x1="114.639035" y1="94.7583263" x2="114.639035" y2="265.286234" id="Stroke-40" stroke="#A7A7A7"></line>
+                    </g>
+                </g>
+                <circle id="Oval" fill="#D8E9D3" style="mix-blend-mode: multiply;" cx="114.27298" cy="173.5" r="85"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

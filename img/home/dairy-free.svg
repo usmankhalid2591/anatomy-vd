@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="36px" viewBox="0 0 42 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 11</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <polygon id="path-2" points="0 34.806064 41.4244134 34.806064 41.4244134 0.15588667 0 0.15588667"></polygon>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-11" transform="translate(-375.000000, -2990.000000)" filter="url(#filter-1)">
+            <g transform="translate(375.443044, 2990.528018)">
+                <line x1="40.8514438" y1="29.018974" x2="0.572844376" y2="5.90472206" id="Stroke-1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></line>
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="Clip-4"></g>
+                <polygon id="Stroke-3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-3)" points="6.34250739 34.2353629 23.0799666 34.2353629 23.0799666 11.2997571 6.34250739 11.2997571"></polygon>
+                <polygon id="Stroke-5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-3)" points="23.0798101 34.2353629 35.081906 34.2353629 35.081906 11.2997571 23.0798101 11.2997571"></polygon>
+                <polygon id="Stroke-7" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-3)" points="6.34244479 11.2998194 12.3434927 5.32187739 29.0401082 5.32187739 23.079904 11.259133"></polygon>
+                <polygon id="Stroke-8" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-3)" points="29.0400926 5.32192416 35.0819842 11.3403967 23.0798883 11.3403967"></polygon>
+                <polygon id="Stroke-9" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-3)" points="12.3842425 5.32197092 29.0401708 5.32197092 29.0401708 0.72658777 12.3842425 0.72658777"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

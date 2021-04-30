@@ -1,0 +1,66 @@
+@font-face {
+  font-family: calibre-thin;
+  src: url(../font/Calibre-Thin.ttf);
+}
+
+@font-face {
+  font-family: calibre-light;
+  src: url(../font/Calibre-Light.ttf);
+}
+
+@font-face {
+  font-family: calibre-regular;
+  src: url(../font/Calibre-Regular.ttf);
+}
+
+@font-face {
+  font-family: calibre-medium;
+  src: url(../font/Calibre-Medium.ttf);
+}
+
+@font-face {
+  font-family: calibre-semi;
+  src: url(../font/Calibre-Semibold.ttf);
+}
+
+@font-face {
+  font-family: calibre-bold;
+  src: url(../font/Calibre-Bold.ttf);
+}
+
+@font-face {
+  font-family: calibre-black;
+  src: url(../font/Calibre-Black.ttf);
+}
+
+.--f-calibre-thin {
+  font-family: calibre-thin;
+}
+
+.--f-calibre-light {
+  font-family: calibre-light;
+}
+
+.--f-calibre-regular {
+  font-family: calibre-regular;
+}
+
+.--f-calibre-medium {
+  font-family: calibre-medium;
+}
+
+.--f-calibre-semi {
+  font-family: calibre-semi;
+}
+
+.--f-calibre-bold {
+  font-family: calibre-bold;
+}
+
+.--f-calibre-black {
+  font-family: calibre-black;
+}
+
+.--text-underline {
+  text-decoration: underline;
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="37px" viewBox="0 0 42 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 12</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-12" transform="translate(-172.000000, -2990.000000)" filter="url(#filter-1)">
+            <g transform="translate(173.192160, 2990.528018)">
+                <line x1="39.5958896" y1="29.1274399" x2="0.101349102" y2="6.01318801" id="Stroke-1" stroke="#000000"></line>
+                <polyline id="Stroke-3" stroke="#000000" points="28.920814 0.10315021 28.920814 8.03294924 10.7764861 26.4660803 10.7764861 35.0555918"></polyline>
+                <polyline id="Stroke-5" stroke="#000000" points="10.7765474 0.10315021 10.7765474 8.03294924 28.9208754 26.4660803 28.9208754 35.0555918"></polyline>
+                <line x1="10.7765474" y1="4.66846282" x2="28.9208754" y2="4.66846282" id="Stroke-8" stroke="#000000"></line>
+                <line x1="26.6151181" y1="10.3753803" x2="13.0822126" y2="10.3753803" id="Stroke-9" stroke="#000000"></line>
+                <line x1="10.7765474" y1="29.7783915" x2="28.9208754" y2="29.7783915" id="Stroke-10" stroke="#000000"></line>
+                <line x1="26.6151181" y1="24.0716299" x2="13.0822126" y2="24.0716299" id="Stroke-11" stroke="#000000"></line>
+            </g>
+        </g>
+    </g>
+</svg>

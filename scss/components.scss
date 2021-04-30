@@ -1,0 +1,28 @@
+.--btn {
+  min-width: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 30px;
+  border-radius: 0px;
+}
+
+.--btn-white-outlined {
+  border: 2px solid #ffffff;
+  color: white;
+}
+
+.--btn-white-outlined:hover {
+  background: white;
+  color: #000000;
+}
+
+.--btn-dark-outlined {
+  border: 2px solid #000000;
+  color: #000000;
+}
+
+.--btn-dark-outlined:hover {
+  background: #000000;
+  color: white;
+}

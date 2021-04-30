@@ -1,0 +1,16 @@
+.images {
+  &__line {
+    position: relative;
+    width: 75%;
+  }
+  &__line::after {
+    content: "";
+    position: absolute;
+    height: 1px;
+    width: 100%;
+    left: 50%;
+    top: 10px;
+    transform: translateX(-50%);
+    background: #000;
+  }
+}
